@@ -81,6 +81,7 @@ a:hover {
   text-decoration: none;
   display: inline-block;
   font-size: 12px;
+	border-radius: 3px;
 }
 .button_sports:hover {
 	background-color: #334063;
@@ -91,6 +92,7 @@ a:hover {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 12px;
+	border-radius: 3px;
 }
 
 
